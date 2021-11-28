@@ -12,3 +12,5 @@ A website that offers firness training services.
 
 ## Contribution
  Made by Jeremy O'Daniel
+
+### ©️2019 Run Buddy, Inc
